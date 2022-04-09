@@ -18,12 +18,12 @@ public class Spacecraft {
 	 /**
 	  * Se crea un array donde se van a guardar las naves
 	  */
-	    static Craft craft[]= new Craft[4];
+	 
 	    /**
 	     * Se crean las varibles
 	     */
 	    static int option = 0;
-	    static int indiceArreglo = 0;
+	    
 	   
 
 	public static void main(String[] args) {
